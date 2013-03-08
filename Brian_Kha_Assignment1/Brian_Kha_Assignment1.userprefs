@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MainMenuGUI.js">
+    <Files>
+      <File FileName="Assets\MainMenuGUI.js" Line="35" Column="33" />
+      <File FileName="Assets\TriggerZone.js" Line="9" Column="3" />
+      <File FileName="Assets\MainMenuBtns.js" Line="20" Column="2" />
+      <File FileName="Assets\warpToWalls.js" Line="15" Column="38" />
+      <File FileName="Assets\Book Assets\powerCell.js" Line="17" Column="2" />
+      <File FileName="Assets\Shooter.js" Line="42" Column="36" />
+      <File FileName="Assets\DoorManager.js" Line="29" Column="2" />
+      <File FileName="Assets\Inventory.js" Line="31" Column="2" />
+      <File FileName="Assets\oldTriggerZone.js" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
